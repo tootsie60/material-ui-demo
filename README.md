@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+The purpose of this project is to learn material-ui for React.  Learn by doing!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
